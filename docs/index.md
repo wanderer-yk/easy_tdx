@@ -11,6 +11,7 @@ backtest_usage
 quantitative-guide
 protocol-reverse-engineering
 protocol-unknown-fields
+protocol-mac-wire-verification
 indicator-zhuoyao
 indicator-bias-signal
 ```
